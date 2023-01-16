@@ -1,7 +1,6 @@
 /***
  * @author Daniel DeMasi
  * October 2, 2022
- * CSE017 Fall 2022: Homework3
  * Test: Includes main method to test object Board
  * IDE: VSCode, Java JDK 11
  */
