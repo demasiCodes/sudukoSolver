@@ -1,7 +1,6 @@
 /***
  * @author Daniel DeMasi
  * October 2, 2022
- * CSE017 Fall 2022: Homework3
  * Board: Class to model the entity Board for a sodoku board
  * IDE: VSCode, Java JDK 11
  */
